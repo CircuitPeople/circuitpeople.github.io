@@ -1,4 +1,4 @@
 circuitpeople.github.io
 =======================
 
-Website re-hosted.
+Website tri-hosted.

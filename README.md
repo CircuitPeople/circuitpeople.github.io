@@ -1,4 +1,4 @@
 circuitpeople.github.io
 =======================
 
-Website quad-hosted.
+Website quint-hosted.

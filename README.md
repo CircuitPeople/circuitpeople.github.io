@@ -1,4 +1,4 @@
 circuitpeople.github.io
 =======================
 
-Website hosting
+Website hosted.

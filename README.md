@@ -1,4 +1,4 @@
 circuitpeople.github.io
 =======================
 
-Website. Hostess.
+Website Hostess.

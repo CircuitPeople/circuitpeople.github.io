@@ -1,4 +1,4 @@
 circuitpeople.github.io
 =======================
 
-Website Host-post. Ed.
+Website Host-post. Education.
